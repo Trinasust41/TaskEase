@@ -1,12 +1,8 @@
 import {
 	AppsOutline,
 	GridOutline,
-	HomeOutline,
-	LogOutOutline,
-	NewspaperOutline,
 	NotificationsOutline,
 	PeopleOutline,
-	PieChartOutline,
 } from "react-ionicons";
 
 const Sidebar = () => {
